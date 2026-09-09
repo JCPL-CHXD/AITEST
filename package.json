@@ -1,0 +1,8 @@
+{
+  "name": "smolai-static",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "npx serve ."
+  }
+}
